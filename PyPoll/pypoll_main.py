@@ -144,60 +144,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 219,
-   "id": "6c880d7a-cd50-4106-a3bd-5dc35b08e24b",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "14%\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(Li_Percentage)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 220,
-   "id": "919af131-13e2-46a8-aaed-cb25e288e727",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "3%\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(O_Tooley_Percentage)"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 221,
-   "id": "d931a5fb-d737-440e-8aa8-a387d73a5a00",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Khan\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(Winner)"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": 222,
    "id": "35e421d6-da7f-4c4a-9fe4-34ccd84ed4fa",
    "metadata": {},
